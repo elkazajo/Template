@@ -22,9 +22,10 @@
                     <td style="border: 2px solid blue">12</td>
                 </tr>
             </table>
-
         </main>
         <footer>
+            <p>Как с нами связаться?</p>
+            <p>Включите прожектор со знаком Бэтмена!</p>
         </footer>
     </body>
 </html>
