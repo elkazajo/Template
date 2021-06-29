@@ -1,0 +1,30 @@
+<html>
+    <title>Название сайта во вкладке</title>
+    <body>
+        <header>
+            <a href="#batman">Кто такой Бэтмен?</a>
+            <a href="#badguys">Кто такой Бэтмен?</a>
+        </header>
+        <main>
+            <img src="https://i.ytimg.com/vi/IQLSROOE82c/maxresdefault.jpg"/>
+            <h1 id="batman">Batman</h1>
+            <p>Бэ́тмен (англ. Batman), изначально Бэт-мен (англ. Bat-man «Человек — летучая мышь») — супергерой, персонаж комиксов издательства DC Comics, впервые появившийся в Detective Comics («Детективные комиксы») № 27 30 марта 1939 года, Бэтмен является одним из самых популярных и известных героев комиксов. Был создан художником Бобом Кейном в соавторстве с писателем Биллом Фингером. До недавнего времени Боб Кейн считался главным создателем персонажа, но в 2015 году, после множества исследований, авторство было передано Биллу Фингеру, так как настоящий вклад Кейна в создание героя оказался весьма незначительным.</p>
+            <h2 id="badguys">Злодеи</h2>
+            <table style="border: 2px solid blue">
+                <tr>
+                    <td style="border: 2px solid blue">Имя</td>
+                    <td style="border: 2px solid blue">Место рождения</td>
+                    <td style="border: 2px solid blue">Возраст</td>
+                </tr>
+                <tr>
+                    <td style="border: 2px solid blue">Джокер</td>
+                    <td style="border: 2px solid blue">Шымкент</td>
+                    <td style="border: 2px solid blue">12</td>
+                </tr>
+            </table>
+
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
